@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on trainer directory - find trainers around all lebanon<br>👯 I’m looking to collaborate on projects i like to build <br>🤝 I’m looking for help with improving my abilities  <br>🌱 I’m currently learning Ai engineering <br>💬 Ask me about AI agents -AI <br>⚡ Fun fact I like to talk to claude code more than my girl 
+🔭 I’m currently a Computer science student <br>👯 I’m looking to collaborate on projects i like to build <br>🤝 I’m looking for help with improving my abilities  <br>🌱 I’m currently learning Ai engineering <br>💬 Ask me about AI agents -AI <br>⚡ Fun fact I like to talk to claude code more than my girl 
 
 
 ## 🌐 Socials:
